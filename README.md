@@ -1,2 +1,2 @@
 # akhil-ghatiki.github.io
-The Tesseract of s-p-a-c-e-time
+The tesseract of s-p-a-c-e-time
