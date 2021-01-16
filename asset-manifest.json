@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/static/css/main.b3b2df44.chunk.css",
-    "main.js": "/static/js/main.ab1fcb2d.chunk.js",
-    "main.js.map": "/static/js/main.ab1fcb2d.chunk.js.map",
+    "main.js": "/static/js/main.095e85de.chunk.js",
+    "main.js.map": "/static/js/main.095e85de.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.86b5b5f0.js",
     "runtime-main.js.map": "/static/js/runtime-main.86b5b5f0.js.map",
     "static/css/2.1bafa09e.chunk.css": "/static/css/2.1bafa09e.chunk.css",
-    "static/js/2.434eb41e.chunk.js": "/static/js/2.434eb41e.chunk.js",
-    "static/js/2.434eb41e.chunk.js.map": "/static/js/2.434eb41e.chunk.js.map",
+    "static/js/2.b2713837.chunk.js": "/static/js/2.b2713837.chunk.js",
+    "static/js/2.b2713837.chunk.js.map": "/static/js/2.b2713837.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e341ff1f59b48734ebeb158c1109d3bc.js": "/precache-manifest.e341ff1f59b48734ebeb158c1109d3bc.js",
+    "precache-manifest.7f8168045e7540a87c2f5d2f1f72a162.js": "/precache-manifest.7f8168045e7540a87c2f5d2f1f72a162.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1bafa09e.chunk.css.map": "/static/css/2.1bafa09e.chunk.css.map",
     "static/css/main.b3b2df44.chunk.css.map": "/static/css/main.b3b2df44.chunk.css.map",
-    "static/js/2.434eb41e.chunk.js.LICENSE.txt": "/static/js/2.434eb41e.chunk.js.LICENSE.txt",
+    "static/js/2.b2713837.chunk.js.LICENSE.txt": "/static/js/2.b2713837.chunk.js.LICENSE.txt",
     "static/media/Keepwaiting.md": "/static/media/Keepwaiting.64df78da.md",
     "static/media/SilkDestiny_1.md": "/static/media/SilkDestiny_1.ee0682d0.md",
     "static/media/SilkDestiny_2.md": "/static/media/SilkDestiny_2.7d82c2f5.md",
-    "static/media/SilkDestiny_3.md": "/static/media/SilkDestiny_3.eb7a6577.md",
-    "static/media/SilkDestiny_4.md": "/static/media/SilkDestiny_4.19d37890.md",
-    "static/media/SilkDestiny_5.md": "/static/media/SilkDestiny_5.ece45a09.md",
-    "static/media/SilkDestiny_6.md": "/static/media/SilkDestiny_6.18fbf306.md",
+    "static/media/SilkDestiny_3.md": "/static/media/SilkDestiny_3.1adbb082.md",
+    "static/media/SilkDestiny_4.md": "/static/media/SilkDestiny_4.d8ee9cba.md",
+    "static/media/SilkDestiny_5.md": "/static/media/SilkDestiny_5.fba5d3c8.md",
+    "static/media/SilkDestiny_6.md": "/static/media/SilkDestiny_6.dea8a01f.md",
     "static/media/home.md": "/static/media/home.e76d1139.md"
   },
   "entrypoints": [
     "static/js/runtime-main.86b5b5f0.js",
     "static/css/2.1bafa09e.chunk.css",
-    "static/js/2.434eb41e.chunk.js",
+    "static/js/2.b2713837.chunk.js",
     "static/css/main.b3b2df44.chunk.css",
-    "static/js/main.ab1fcb2d.chunk.js"
+    "static/js/main.095e85de.chunk.js"
   ]
 }
