@@ -2,7 +2,7 @@
 
 ## One point stop for Installing SonarQube server in an AWS EC2 instance
 
-###### **Jun 14, 2020**
+###### _Jun 14, 2020_
 
 Writing clean code is an art. It is a pathway towards software craftsman /craftswoman ship. But sometimes not every one is well equipped with this art. As the saying goes it takes 10,000 hours to master a skill. So, we need something that will enforce the developers of the team to write the code in a cleaner and secure way.
 
