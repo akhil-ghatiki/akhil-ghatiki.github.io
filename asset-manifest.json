@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.b3b2df44.chunk.css",
-    "main.js": "/static/js/main.b0d4e90f.chunk.js",
-    "main.js.map": "/static/js/main.b0d4e90f.chunk.js.map",
+    "main.js": "/static/js/main.d4448e02.chunk.js",
+    "main.js.map": "/static/js/main.d4448e02.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.86b5b5f0.js",
     "runtime-main.js.map": "/static/js/runtime-main.86b5b5f0.js.map",
     "static/css/2.1bafa09e.chunk.css": "/static/css/2.1bafa09e.chunk.css",
     "static/js/2.29398f7c.chunk.js": "/static/js/2.29398f7c.chunk.js",
     "static/js/2.29398f7c.chunk.js.map": "/static/js/2.29398f7c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2a2d154fced0027e013e0d3d639c5340.js": "/precache-manifest.2a2d154fced0027e013e0d3d639c5340.js",
+    "precache-manifest.9377f386d56b9d77f4d3a8321ec610c9.js": "/precache-manifest.9377f386d56b9d77f4d3a8321ec610c9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1bafa09e.chunk.css.map": "/static/css/2.1bafa09e.chunk.css.map",
     "static/css/main.b3b2df44.chunk.css.map": "/static/css/main.b3b2df44.chunk.css.map",
@@ -17,7 +17,7 @@
     "static/media/Archive.md": "/static/media/Archive.c790e2d9.md",
     "static/media/Categories.md": "/static/media/Categories.bcfaaa93.md",
     "static/media/Keepwaiting.md": "/static/media/Keepwaiting.64df78da.md",
-    "static/media/Now.md": "/static/media/Now.031b1e5b.md",
+    "static/media/Now.md": "/static/media/Now.dff3b3fc.md",
     "static/media/SilkDestiny_1.md": "/static/media/SilkDestiny_1.22220d60.md",
     "static/media/SilkDestiny_2.md": "/static/media/SilkDestiny_2.a8ca48fb.md",
     "static/media/SilkDestiny_3.md": "/static/media/SilkDestiny_3.1f46caa1.md",
@@ -40,6 +40,6 @@
     "static/css/2.1bafa09e.chunk.css",
     "static/js/2.29398f7c.chunk.js",
     "static/css/main.b3b2df44.chunk.css",
-    "static/js/main.b0d4e90f.chunk.js"
+    "static/js/main.d4448e02.chunk.js"
   ]
 }
