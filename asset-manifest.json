@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.b3b2df44.chunk.css",
-    "main.js": "/static/js/main.a7bd5043.chunk.js",
-    "main.js.map": "/static/js/main.a7bd5043.chunk.js.map",
+    "main.js": "/static/js/main.414ddce2.chunk.js",
+    "main.js.map": "/static/js/main.414ddce2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.86b5b5f0.js",
     "runtime-main.js.map": "/static/js/runtime-main.86b5b5f0.js.map",
     "static/css/2.1bafa09e.chunk.css": "/static/css/2.1bafa09e.chunk.css",
-    "static/js/2.924a4d28.chunk.js": "/static/js/2.924a4d28.chunk.js",
-    "static/js/2.924a4d28.chunk.js.map": "/static/js/2.924a4d28.chunk.js.map",
+    "static/js/2.cec998f0.chunk.js": "/static/js/2.cec998f0.chunk.js",
+    "static/js/2.cec998f0.chunk.js.map": "/static/js/2.cec998f0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2c64678a0715ccb07d77d36dc42b390b.js": "/precache-manifest.2c64678a0715ccb07d77d36dc42b390b.js",
+    "precache-manifest.96101bbc0e9153c9a0aa9be4c61d222d.js": "/precache-manifest.96101bbc0e9153c9a0aa9be4c61d222d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1bafa09e.chunk.css.map": "/static/css/2.1bafa09e.chunk.css.map",
     "static/css/main.b3b2df44.chunk.css.map": "/static/css/main.b3b2df44.chunk.css.map",
-    "static/js/2.924a4d28.chunk.js.LICENSE.txt": "/static/js/2.924a4d28.chunk.js.LICENSE.txt",
-    "static/media/Archive.md": "/static/media/Archive.467d429c.md",
+    "static/js/2.cec998f0.chunk.js.LICENSE.txt": "/static/js/2.cec998f0.chunk.js.LICENSE.txt",
+    "static/media/Archive.md": "/static/media/Archive.00e01b67.md",
     "static/media/Categories.md": "/static/media/Categories.bcfaaa93.md",
     "static/media/Keepwaiting.md": "/static/media/Keepwaiting.64df78da.md",
     "static/media/Now.md": "/static/media/Now.dff3b3fc.md",
@@ -33,14 +33,15 @@
     "static/media/home.md": "/static/media/home.9b38c8e5.md",
     "static/media/kubernetes-probes.md": "/static/media/kubernetes-probes.366d064d.md",
     "static/media/performance_testing_distributed_system.md": "/static/media/performance_testing_distributed_system.f30ad031.md",
+    "static/media/rip-democracy.md": "/static/media/rip-democracy.d7cbb272.md",
     "static/media/sonar-aws.md": "/static/media/sonar-aws.76a3171e.md",
     "static/media/touch.md": "/static/media/touch.09c0ac25.md"
   },
   "entrypoints": [
     "static/js/runtime-main.86b5b5f0.js",
     "static/css/2.1bafa09e.chunk.css",
-    "static/js/2.924a4d28.chunk.js",
+    "static/js/2.cec998f0.chunk.js",
     "static/css/main.b3b2df44.chunk.css",
-    "static/js/main.a7bd5043.chunk.js"
+    "static/js/main.414ddce2.chunk.js"
   ]
 }
